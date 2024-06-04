@@ -5784,7 +5784,7 @@ a.badge-dark:focus {
     margin-bottom: 2rem;
     background-color: #e9ecef;
     border-radius: .3rem;
-    background: url("/assets/Hero.jpg") no-repeat center center;
+    background: url("Hero.jpg") no-repeat center center;
     background-size: cover;
     color: white;
 }
